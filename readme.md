@@ -59,4 +59,8 @@ Eliminate ties altogether. Spades > Hearts > Diamonds > Clubs.
 
 ## Bonus 4
 
+Make this game run as an actual webpage -- not in alert boxes.
+
+## Bonus 5
+
 Turn the game into a series of "turns". After each round, deal all players new cards. Keep track of who has won the most rounds. Announce them as the winner.
