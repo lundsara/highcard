@@ -45,6 +45,8 @@ Inside `script.js` you'll find the following methods:
 	- `array.pop()`
 	- `array.unshift()`
 
+  - [Screencast of an instructor solving it](https://youtu.be/X1341yVNCqE)
+
 ## Bonus 1
 
 If there's a tie, announce "It's a tie between [name] and [name] with the [value] of [suit]!"
